@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "test",
+    "authors": [
+        {
+            "name": "Liudmila",
+            "email": "liudmilagubanova18@gmail.com"
+        }
+    ],
+    "require": {}
+}
